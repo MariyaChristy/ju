@@ -1,0 +1,3 @@
+git init->first steps
+git add - A
+GIT COMMIT -M "MESSAFGE"
