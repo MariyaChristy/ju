@@ -1,3 +1,6 @@
 git init->first steps
 git add - A
 GIT COMMIT -M "MESSAFGE"
+git email maiyamariya5712@gmail.com
+git username mariya 
+its git bush here
